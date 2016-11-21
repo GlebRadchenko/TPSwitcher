@@ -136,6 +136,7 @@ class TPSwitcher: UIControl {
         selectedView.layer.rounded()
         labelsMaskView.layer.rounded()
         labelsMaskView.frame = selectedView.frame
+        
     }
     func initialSetup() {
         addSubview(labelsView)
@@ -153,6 +154,7 @@ class TPSwitcher: UIControl {
         panGesture.delegate = self
         addGestureRecognizer(panGesture)
         
+        resetLabels()
     }
     func resetLabels() {
         labels.forEach {
