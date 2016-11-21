@@ -21,4 +21,5 @@ switcher.setSelected(0, animated: false)
 ```
 
 ##Result:
-![preview] (https://github.com/GlebRadchenko/TPSwitcher/blob/master/example.png?raw=true)
+![image] (https://github.com/GlebRadchenko/TPSwitcher/blob/master/example.png?raw=true)
+![gif] (https://github.com/GlebRadchenko/TPSwitcher/blob/master/example.gif)
