@@ -44,5 +44,4 @@ func switcherValueChanged(sender: AnyObject?) {
 ```
 
 ##Result:
-![image] (https://github.com/GlebRadchenko/TPSwitcher/blob/master/example.png?raw=true)
 ![gif] (https://github.com/GlebRadchenko/TPSwitcher/blob/master/example.gif)
