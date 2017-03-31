@@ -1,12 +1,12 @@
 # TPSwitcher
 Custom implementation of Apple UISegmentedControl
 
-##Requirements: 
+## Requirements: 
   - IOS 9.0+
   - XCode 8.0+ 
   - Swift 3.0
   
-##Usage: 
+## Usage: 
 
 ``` swift
 let switcher = TPSwitcher(titles: ["First", "Second", "Third"])
@@ -43,5 +43,5 @@ func switcherValueChanged(sender: AnyObject?) {
 }
 ```
 
-##Result:
+## Result:
 ![gif] (https://github.com/GlebRadchenko/TPSwitcher/blob/master/example.gif)
